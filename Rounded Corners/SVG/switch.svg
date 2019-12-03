@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="200px" height="120px" viewBox="0 0 200 120" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56.3 (81716) - https://sketch.com -->
+    <title>large/switch</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Rounded" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Large" transform="translate(-32.000000, -2092.000000)">
+            <g id="large/switch" transform="translate(32.000000, 2092.000000)">
+                <rect id="Background" fill="#189D6B" x="0" y="0" width="200" height="120" rx="8"></rect>
+                <g id="Logo" transform="translate(68.000000, 24.000000)" fill-rule="nonzero">
+                    <g id="switch">
+                        <path d="M51.0651001,28 C60.2419058,41.1732115 56.2525444,58.8119184 42.1495784,67.3856696 C28.059358,75.9594208 9.18317849,72.2441286 0,59.0709171 L8.75301572,53.5783577 C14.7179394,62.128293 26.9791715,64.5515685 36.1368589,58.9756532 C45.2881734,53.4086689 47.8787092,41.9531847 41.9169719,33.4032495 L51.0619137,28.002977 L51.0651001,28 Z" id="Shape" fill="#FFFFFF"></path>
+                        <path d="M71.9968122,12.8959019 C62.7967842,-0.261464837 43.9058052,-3.95611766 29.8156723,4.63201656 C15.7255394,13.2231255 11.7599002,30.8485828 20.9599282,44 L29.8762407,38.7346735 C23.9022794,30.1971102 26.4780322,18.750231 35.6270552,13.1725546 C44.7856415,7.59190348 57.0491576,10.0014597 63.0294946,18.5390229 L72,12.9018514 L71.9968122,12.8959019 Z" id="Shape" fill="#000000"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

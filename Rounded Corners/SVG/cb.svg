@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="200px" height="120px" viewBox="0 0 200 120" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56.3 (81716) - https://sketch.com -->
+    <title>large/cb</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="200" height="120" rx="8"></rect>
+    </defs>
+    <g id="Rounded" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Large" transform="translate(-32.000000, -4306.000000)">
+            <g id="large/cb" transform="translate(32.000000, 4306.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="Background" fill="#2F579A" xlink:href="#path-1"></use>
+                <path d="M179.174,42.751 C179.174,34.063 172.137,27.017 163.451,27.003 L163.451,27 L106.146,27 L106.146,58.517 L163.451,58.517 L163.451,58.5 C172.137,58.485 179.174,51.439 179.174,42.751 L179.174,42.751 Z M179.174,76.177 C179.174,67.489 172.137,60.444 163.451,60.429 L163.451,60.427 L106.146,60.427 L106.146,91.945 L163.451,91.945 L163.451,91.925 C172.137,91.911 179.174,84.867 179.174,76.177 Z M62.967,60.427 L62.967,58.517 L105.043,58.517 L105.043,55.861 C105.043,40.037 92.217,27.21 76.393,27.21 L49.653,27.21 C33.829,27.21 21,40.037 21,55.861 L21,63.502 C21,79.325 33.829,92.153 49.653,92.153 L76.393,92.153 C92.217,92.153 105.043,79.325 105.043,63.502 L105.043,60.427 L62.967,60.427 L62.967,60.427 Z" id="Shape" fill="#FFFFFF" fill-rule="nonzero" mask="url(#mask-2)"></path>
+            </g>
+        </g>
+    </g>
+</svg>
