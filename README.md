@@ -4,7 +4,7 @@
 
 A collection of uniform and minimal payment and credit card logos. These cover all major payment methods and are free to use for commercial purposes.
 
-- [Website](https://portfolio.slaterjohn.com)
+- [Website](https://www.slaterjohn.com)
 - [Download (3MB .zip)](dist.zip)
 
 
